@@ -1,0 +1,6 @@
+{
+  "name": "Des Pardes Restaurant",
+  "description": "Visit Des Pardes Restaurant on Saidpur Road, Rawalpindi for a traditional Pakistani dining experience. Explore the menu and contact the restaurant for information and orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
